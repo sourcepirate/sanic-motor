@@ -1,3 +1,2 @@
-sanic
+sanic-motor>=0.1.6
 sanic-jinja2
-motor
